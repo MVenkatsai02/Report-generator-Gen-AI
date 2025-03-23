@@ -36,8 +36,6 @@ streamlit run research_report_generator.py
 3. Click **Generate Report** to receive an AI-generated research document.
 4. **Download** the report as a text file for future reference.
 
-## 📷 Screenshot
-![AI-Powered Research Report Generator](https://via.placeholder.com/800x400)
 
 ## 📌 Technologies Used
 - **Streamlit** - For the web application interface.
